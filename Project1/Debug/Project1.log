@@ -1,0 +1,60 @@
+﻿  Origem.cpp
+c:\users\gia\source\repos\project1\project1\origem.cpp(59): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\gia\source\repos\project1\project1\origem.cpp(83): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(84): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(137): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(141): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+c:\users\gia\source\repos\project1\project1\origem.cpp(150): warning C4805: '==': mistura não segura de tipo 'BOOLEAN' e tipo 'bool' em operação
+c:\users\gia\source\repos\project1\project1\origem.cpp(154): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(161): warning C4805: '==': mistura não segura de tipo 'BOOLEAN' e tipo 'bool' em operação
+c:\users\gia\source\repos\project1\project1\origem.cpp(165): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(172): warning C4805: '==': mistura não segura de tipo 'BOOLEAN' e tipo 'bool' em operação
+c:\users\gia\source\repos\project1\project1\origem.cpp(176): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(200): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(214): warning C4805: '==': mistura não segura de tipo 'BOOLEAN' e tipo 'bool' em operação
+c:\users\gia\source\repos\project1\project1\origem.cpp(224): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(225): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(226): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(227): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(228): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(229): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(233): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(236): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(245): warning C4805: '==': mistura não segura de tipo 'BOOLEAN' e tipo 'bool' em operação
+c:\users\gia\source\repos\project1\project1\origem.cpp(255): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(256): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(257): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(258): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(259): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(260): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(264): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(267): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(276): warning C4805: '==': mistura não segura de tipo 'BOOLEAN' e tipo 'bool' em operação
+c:\users\gia\source\repos\project1\project1\origem.cpp(286): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(287): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(288): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(289): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(290): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(291): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(295): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(298): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(207): warning C4101: 'pos3': variável local não referenciada
+c:\users\gia\source\repos\project1\project1\origem.cpp(316): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(317): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(318): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(319): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(323): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(324): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(325): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(326): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(330): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(331): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(332): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(333): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(337): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(338): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(339): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(340): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(364): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\gia\source\repos\project1\project1\origem.cpp(403): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+  Project1.vcxproj -> C:\Users\Gia\source\repos\Project1\Debug\Project1.exe
